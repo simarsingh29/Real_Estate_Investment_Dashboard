@@ -1,2 +1,16 @@
-# Real_Estate_Investment_Dashboard
-Developed and deployed an interactive R Shiny dashboard to monitor real estate trends across major Indian cities for historical and real-time (2025) data. Implemented dynamic data visualizations using Plotly and Leaflet to show city-wise investment performance and property type distributions. Enabled users to make informed decisions with filters, predictive insights, and live-updating graphs based on selected city and property type..
+🏢 Real Estate Investment Dashboard
+
+📊 An interactive R Shiny dashboard built to analyze real estate investment trends in Indian MNC cities.
+This project demonstrates the use of R for data visualization, dashboard design, and interactive analytics with a synthetic/random dataset of property types.
+
+🎯 Project Objective
+
+The goal of this project is to showcase the ability to:
+
+Build end-to-end dashboards in R Shiny
+
+Visualize investment patterns across cities and property types
+
+Provide interactive insights through graphs and tables
+
+Apply data wrangling, visualization, and UI design skills
